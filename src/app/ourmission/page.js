@@ -2,9 +2,9 @@
 import OurMissionSlider from "../secondcomponents/ourmissionslider";
 import Image from "next/image";
 import poorfood from "./../../../public/ourmission/poorfood.jpg";
-import poordisabled from "./../../../public/ourmission/poordisabled.jpg";
-import educationchild from "./../../../public/ourmission/educationchild.jpg";
-import problem from "./../../../public/ourmission/problem.jpg";
+import poordisabled from "./../../../public/poordisabled.jpg";
+import educationchild from "./../../../public/educationchild.jpg";
+import problem from "./../../../public/problem.jpg";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from "react";
