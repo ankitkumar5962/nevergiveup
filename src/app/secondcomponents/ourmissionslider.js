@@ -10,16 +10,16 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
 
-import boyreview1 from "./../../../public/ourmissionslider/boyreview1.png"
-import boyreview2 from "./../../../public/ourmissionslider/boyreview2.png"
-import boyreview3 from "./../../../public/ourmissionslider/boyreview3.png"
-import boyreview4 from "./../../../public/ourmissionslider/boyreview4.png"
-import boyreview5 from "./../../../public/ourmissionslider/boyreview5.png"
-import boyreview6 from "./../../../public/ourmissionslider/boyreview6.png"
+import boyreview1 from "./../../../public/boyreview1.png"
+import boyreview2 from "./../../../public/boyreview2.png"
+import boyreview3 from "./../../../public/boyreview3.png"
+import boyreview4 from "./../../../public/boyreview4.png"
+import boyreview5 from "./../../../public/boyreview5.png"
+import boyreview6 from "./../../../public/boyreview6.png"
 
-import girlreview1 from "./../../../public/ourmissionslider/girlreview1.png"
-import girlreview2 from "./../../../public/ourmissionslider/girlreview2.png"
-import laddyreview1 from "./../../../public/ourmissionslider/laddyreview1.png"
+import girlreview1 from "./../../../public/girlreview1.png"
+import girlreview2 from "./../../../public/girlreview2.png"
+import laddyreview1 from "./../../../public/laddyreview1.png"
 
 
 // import required modules
