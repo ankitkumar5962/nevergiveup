@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Whatwedogallary from "../secondcomponents/whatwedogallary";
-import poorblackwhite from "./../../../public/whatwedo/poorblackwhite.jpg";
+import poorblackwhite from "./../../../public/poorblackwhite.jpg";
 
 
 export default function Whatwedo(){
