@@ -5,8 +5,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 // Import Swiper styles
 import 'swiper/css/bundle'
-import "swiper/css/pagination";
-import 'swiper/css/navigation';
+
 import Image from "next/image";
 import firstslide1 from "./../../../public/frontslide1.jpg";
 import firstslide2 from "./../../../public/frontslide2.png";
