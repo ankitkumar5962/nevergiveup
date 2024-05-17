@@ -1,4 +1,4 @@
-import savenatrue from "////public/savenaturejpg"
+import savenatrue from "./../../../public/savenaturejpg"
 import Image from "next/image"
 export default function HeroWithImage(){
 
