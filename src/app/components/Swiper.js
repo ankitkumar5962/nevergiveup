@@ -9,8 +9,8 @@ import 'swiper/css/bundle'
 import Image from "next/image";
 import firstslide1 from "./../../../public/frontslide1.jpg";
 import firstslide2 from "./../../../public/frontslide2.png";
-// import firstslide3 from "./../../../public/frontslide3.png";
-//import firstslide4 from "./../../../public/frontslide4.png";
+import firstslide3 from "./../../../public/frontslide3.png";
+import firstslide4 from "./../../../public/frontslide4.png";
 import firstslide5 from '../../../public/frontslide5.png';
 import firstslide6 from "./../../../public/frontslide6.png";
 // import firstslide7 from "./../../../public/frontslide7.png";
@@ -50,15 +50,15 @@ export default function App() {
           
           <Image src={firstslide2} alt="slideimg2" fill={true} />
         </SwiperSlide>
-        {/* <SwiperSlide className="h-[450px] w-screen max-md:h-[240px] bg-yellow-500">
-          {" "}
-          <Image src={firstslide3} fill={true} />
-        </SwiperSlide> */}
-        <SwiperSlide className="h-[500px] w-screen max-md:h-[240px] ">
-          <Image src={""} fill={true} alt="slideimg3"/>
+         <SwiperSlide className="h-[450px] w-screen max-md:h-[240px] bg-yellow-500">
+         
+          <Image src={firstslide3} alt="slideimg3" fill={true} />
         </SwiperSlide>
         <SwiperSlide className="h-[500px] w-screen max-md:h-[240px] ">
-          <Image src={""} fill={true} alt="slideimg5"/>
+          <Image src={firstslide4} fill={true} alt="slideimg4"/>
+        </SwiperSlide>
+        <SwiperSlide className="h-[500px] w-screen max-md:h-[240px] ">
+          <Image src={firstslide5} fill={true} alt="slideimg5"/>
         </SwiperSlide>
         <SwiperSlide className="h-[500px] w-screen max-md:h-[240px] ">
           <Image src={firstslide6} fill={true} alt="slideimg6"/>
