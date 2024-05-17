@@ -1,7 +1,7 @@
 "use client"
 import OurMissionSlider from "../secondcomponents/ourmissionslider";
 import Image from "next/image";
-import poorfood from "./../../../public/ourmission/poorfood.jpg";
+import poorfood from "./../../../public/poorfood.jpg";
 import poordisabled from "./../../../public/poordisabled.jpg";
 import educationchild from "./../../../public/educationchild.jpg";
 import problem from "./../../../public/problem.jpg";
