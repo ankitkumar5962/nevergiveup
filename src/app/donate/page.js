@@ -10,7 +10,7 @@ export default function ProvideHelp(){
             <div class="mb-6 max-w-4xl text-center sm:text-center md:mx-auto md:mb-12">
              
               <h2 class="font-heading mb-4 font-bold tracking-tight text-[#24AB61] text-[#27AB61] text-5xl sm:text-5xl font-tittle">
-              Hopeful donation illuminates path, casts light.              </h2> 
+              Hopeful donation illuminates path casts light              </h2> 
               {/* <p class="mx-auto mt-4 max-w-3xl text-xl text-gray-600 dark:text-slate-400">
                 In hac habitasse platea dictumst
               </p> */}
@@ -29,7 +29,7 @@ export default function ProvideHelp(){
 
               <div class="h-full pr-6">
                 <p class="mt-3 mb-12 text-lg text-black font-tittle">
-                  Every contribution to Meera Foundation's account is a ripple of compassion, a drop of love, and a beacon of change, weaving a tapestry of hope for those in need.
+                  Every contribution to Meera Foundations account is a ripple of compassion a drop of love and a beacon of change weaving a tapestry of hope for those in need
                 </p>
                 <ul class="mb-6 md:mb-0">
                   <li class="flex">
@@ -44,14 +44,14 @@ export default function ProvideHelp(){
                     4354353425435643654
                       </p>
                       {/* <p class="text-gray-600 dark:text-slate-400">
-                        New York, EEUU
+                        New York EEUU
                       </p> */}
                     </div>
                   </li>
                   <li class="flex">
                     <div class="flex h-10 w-10 items-center justify-center rounded  text-gray-50">
                       {/* <svg
-                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns="http://wwww3org/2000/svg"
                         width="24"
                         height="24"
                         viewBox="0 0 24 24"
@@ -62,7 +62,7 @@ export default function ProvideHelp(){
                         stroke-linejoin="round"
                         class="h-full w-full bg-gradient-to-r from-blue-300 to-blue-600 p-2 rounded-md"
                       >
-                        <path d="M5 4h4l2 5l-2.5 1.5a11 11 0 0 0 5 5l1.5 -2.5l5 2v4a2 2 0 0 1 -2 2a16 16 0 0 1 -15 -15a2 2 0 0 1 2 -2"></path>
+                        <path d="M5 4h4l2 5l-25 15a11 11 0 0 0 5 5l15 -25l5 2v4a2 2 0 0 1 -2 2a16 16 0 0 1 -15 -15a2 2 0 0 1 2 -2"></path>
                         <path d="M15 7a2 2 0 0 1 2 2"></path>
                         <path d="M15 3a6 6 0 0 1 6 6"></path>
                       </svg> */}
@@ -82,7 +82,7 @@ export default function ProvideHelp(){
                   <li class="flex">
                     <div class="flex h-10 w-10 items-center justify-center rounded  text-gray-50">
                       {/* <svg
-                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns="http://wwww3org/2000/svg"
                         width="24"
                         height="24"
                         viewBox="0 0 24 24"
