@@ -6,7 +6,7 @@ import financial from "./../../../public/financialhelpjpg";
 
 
 import AOS from 'aos';
-import aos/dist/aoscss;
+import 'aos/dist/aos';
 import { useEffect } from "react";
 
 export default function FourBoxSection(){
