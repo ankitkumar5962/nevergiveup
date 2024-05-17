@@ -12,7 +12,7 @@ export default function TestiMonials(){
         <>
         <div  class="relative isolate bg-white  pb-32 pt-24 sm:pt-32">
   <div class="absolute inset-x-0 top-1/2 -z-10 -translate-y-1/2 transform-gpu overflow-hidden opacity-30 blur-3xl" aria-hidden="true">
-    <div class="ml-[max(50%38rem)] aspect-[1313/771] w-[820625rem] " ></div>
+    
   </div>
   <div class="absolute inset-x-0 top-0 -z-10 flex transform-gpu overflow-hidden pt-32 opacity-25 blur-3xl sm:pt-40 xl:justify-end" aria-hidden="true">
     <div class="ml-[-22rem] aspect-[1313/771] w-[820625rem] flex-none origin-top-right rotate-[30deg]  xl:ml-0 xl:mr-[calc(50%-12rem)]"></div>
