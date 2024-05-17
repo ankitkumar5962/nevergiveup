@@ -9,11 +9,10 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from "react";
 
-export default function FourBoxSection(){
-
+export default function FourBoxSection() {
   useEffect(() => {
-    AOSinit();
-  } []);
+    AOS.init(); // Initialize AOS on component mount
+  }, []);
 
 return(
 
