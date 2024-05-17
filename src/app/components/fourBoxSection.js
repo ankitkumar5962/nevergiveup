@@ -5,7 +5,7 @@ import financial from "./../../../public/financialhelpjpg";
 
 
 
-import AOS from aos;
+import AOS from 'aos';
 import aos/dist/aoscss;
 import { useEffect } from "react";
 
