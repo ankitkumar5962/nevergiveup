@@ -11,7 +11,7 @@ import firstslide1 from "./../../../public/frontslide1.jpg";
 import firstslide2 from "./../../../public/frontslide2.png";
 // import firstslide3 from "./../../../public/frontslide3.png";
 import firstslide4 from "./../../../public/frontslide4.png";
-//import firstslide5 from '../../../public/frontslide5.png';
+import firstslide5 from '../../../public/frontslide5.png';
 import firstslide6 from "./../../../public/frontslide6.png";
 // import firstslide7 from "./../../../public/frontslide7.png";
 import firstslide8 from "./../../../public/frontslide8.png";
