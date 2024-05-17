@@ -15,7 +15,7 @@ export default function TestiMonials(){
     
   </div>
   <div class="absolute inset-x-0 top-0 -z-10 flex transform-gpu overflow-hidden pt-32 opacity-25 blur-3xl sm:pt-40 xl:justify-end" aria-hidden="true">
-    <div class="ml-[-22rem] aspect-[1313/771] w-[820625rem] flex-none origin-top-right rotate-[30deg]  xl:ml-0 xl:mr-[calc(50%-12rem)]"></div>
+  
   </div>
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-xl text-center">
